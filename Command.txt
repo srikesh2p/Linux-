@@ -1,0 +1,2 @@
+ Nested Directory:
+ mkdir -p d/s/a/e
